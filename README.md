@@ -1,7 +1,7 @@
 # Salim Hartono
 ### Hi there 👋
 
-My name is Salim and I'm currently a Backend Engineer for payment and promotion team at [Tiket](tiket.com).
+My name is Salim and I'm currently a Backend Engineer for payment and promotion team at [Tiket](https://www.tiket.com).
 
 ## 📝 Get in touch with me!
 - [IG](https://www.instagram.com/salimhartono_/)
