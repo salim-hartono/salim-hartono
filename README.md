@@ -1,4 +1,11 @@
+# Salim hartono
 ### Hi there 👋
+
+My name is Salim and I'm currently a Backend engineer for payment and promotion team at [Tiket](tiket.com).
+
+## 📝 Get in touch with me!
+- [IG](https://www.instagram.com/salimhartono_/)
+- [LinkedIn](https://www.linkedin.com/in/salimhartono/)
 
 <!--
 **salim-hartono/salim-hartono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
