@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 My name is Salim and I'm currently a Backend Engineer for payment and promotion team at [Tiket](https://www.tiket.com).
-[![Salim Hartono's github stats](https://github-readme-stats.vercel.app/api?username=salim-hartono&show_icons=true&theme=dracula)][linkToGithub]
+[![Salim Hartono's github stats](https://github-readme-stats.vercel.app/api?username=salim-hartono&show_icons=true&theme=dracula)](https://github.com/salim-hartono)
 
 ## 📝 Get in touch with me!
 <p align='left'>
