@@ -11,7 +11,7 @@
   <a href="https://instagram.com/salimhartono_">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-
+</p>
 <!--
 **salim-hartono/salim-hartono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
